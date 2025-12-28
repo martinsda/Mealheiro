@@ -1,266 +1,337 @@
-# 💰 MEALHEIRO INTELIGENTE - Ficha de Matemática 💰
+# 💰 MEALHEIRO ESTRATÉGICO - Ficha de Matemática Avançada 💰
 
 **Nome:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Data:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Nível:** 9-10 anos (Avançado)
+**Ano:** 6º Ano (11-12 anos)
 
 ---
 
-## 📝 Exercício 1 - Poupança com Descontos
+## 📝 Exercício 1 - Orçamento Mensal Complexo
 
-Queres comprar uma **bicicleta** que custa **180 euros**.
+Recebes **45 euros** de mesada por mês e decides organizar assim:
 
-Já tens **45 euros** no mealheiro.
+- **30%** para o mealheiro (poupança a longo prazo)
+- **25%** para lanches e pequenas despesas
+- **20%** para entretenimento (cinema, jogos)
+- **15%** para prendas e ajudas
+- **10%** para emergências
 
-A loja vai fazer uma promoção de **10% de desconto**.
+**a)** Calcula quanto vai para cada categoria (em euros).
 
-**a)** Quanto vai custar a bicicleta com desconto?
+**b)** Se no final do mês sobrarem 5 euros de lanches, onde os colocas? Quanto terás no mealheiro?
 
-**b)** Quanto dinheiro ainda precisas de poupar?
-
----
-
-## 📝 Exercício 2 - Comparar Estratégias
-
-Queres poupar **120 euros** para comprar uma **consola de jogos**.
-
-Tens duas estratégias:
-
-- **Estratégia A:** Poupar 8 euros por semana
-- **Estratégia B:** Poupar 12 euros de 15 em 15 dias (a cada 2 semanas)
-
-**a)** Quantas semanas demoras com a Estratégia A?
-
-**b)** Quantas semanas demoras com a Estratégia B?
-
-**c)** Qual é a melhor estratégia? Porquê?
+**c)** Em 1 ano (12 meses), quanto terás poupado no mealheiro (sem contar extras)?
 
 ---
 
-## 📝 Exercício 3 - Frações da Mesada
+## 📝 Exercício 2 - Análise de Investimentos
 
-Recebes **20 euros** de mesada por mês.
+Queres comprar uma **bicicleta elétrica** que custa **€650**.
 
-Decides dividir assim:
-- **1/2** para poupar no mealheiro
-- **1/4** para lanches e pequenas compras
-- O resto para guardar numa conta bancária
+Tens **3 opções** de poupança:
 
-**a)** Quanto poupas no mealheiro por mês?
+**Opção A:** Poupar €25 por semana (sem juros)
 
-**b)** Quanto gastas em lanches?
+**Opção B:** Poupar €80 por mês num mealheiro especial que dá 5% de bónus anual
 
-**c)** Quanto guardas na conta bancária?
+**Opção C:** Poupar €50 quinzenalmente (cada 2 semanas)
 
-**d)** Em 6 meses, quanto terás poupado no mealheiro?
+**a)** Quanto tempo demoras com cada opção? (em semanas para A e C, em meses para B)
 
----
+**b)** Qual é a opção mais rápida?
 
-## 📝 Exercício 4 - Juros Simples (Nível Desafio!)
-
-Os teus pais propõem uma ideia interessante:
-
-Por cada **10 euros** que poupares no mealheiro durante 1 mês completo, eles dão-te **1 euro extra** como "prémio de poupança".
-
-Se poupares **40 euros** num mês, quanto dinheiro terás no total (incluindo o prémio)?
-
-*Dica: Descobre quantos grupos de 10 euros tens em 40 euros.*
+**c)** Na Opção B, quanto bónus recebes após 8 meses se poupares €80/mês? (5% do total poupado)
 
 ---
 
-## 📝 Exercício 5 - Objetivos Múltiplos
+## 📝 Exercício 3 - Descontos Encadeados
 
-Tens **3 objetivos** de poupança:
+Vais comprar um **smartphone** que custa **€420**.
 
-1. **Headphones:** 35 euros (prioridade alta - queres comprar primeiro)
-2. **Livro:** 15 euros (prioridade média)
-3. **Jogo de tabuleiro:** 25 euros (prioridade baixa)
+A loja oferece:
+- **15% de desconto** por seres jovem
+- Depois, mais **10% de desconto** em cima do preço já descontado
 
-Vais poupar **15 euros por semana**.
+**a)** Quanto custa após o primeiro desconto (15%)?
 
-**a)** Quanto custa tudo no total?
+**b)** Quanto custa após o segundo desconto (10% do novo preço)?
 
-**b)** Em que semana consegues comprar os headphones?
+**c)** Qual é o desconto total em percentagem? É o mesmo que 25%? Explica.
 
-**c)** Depois de comprar os headphones, quantas semanas precisas para comprar o livro?
-
-**d)** Quanto tempo (em semanas) demoras a comprar os 3 objetivos?
+**d)** Quanto precisas de poupar se já tens €180?
 
 ---
 
-## 📝 Exercício 6 - Percentagens de Progresso
+## 📝 Exercício 4 - Divisão Proporcional
 
-Queres poupar **200 euros** para um **tablet**.
+Tu e dois amigos querem comprar um **jogo de consola** que custa **€75**.
 
-Já poupaste **50 euros**.
+Decidem dividir assim:
+- Tu pagas **2/5** (tens mais dinheiro poupado)
+- Amigo A paga **2/5**
+- Amigo B paga **1/5**
 
-**a)** Que percentagem do objetivo já atingiste?
+**a)** Quanto paga cada um?
 
-**b)** Que percentagem ainda falta?
+**b)** Se já tens €20 poupados, quanto ainda precisas?
 
-**c)** Se poupares mais 30 euros, que percentagem terás?
-
----
-
-## 📝 Exercício 7 - Poupança Irregular
-
-Nem todas as semanas poupar o mesmo valor:
-
-- **Semana 1:** 8 euros
-- **Semana 2:** 12 euros
-- **Semana 3:** 5 euros
-- **Semana 4:** 15 euros
-
-**a)** Quanto poupaste no total neste mês?
-
-**b)** Qual é a média de poupança por semana?
-
-**c)** Se mantiveres esta média, quanto pouparás em 12 semanas?
+**c)** Poupando €4 por semana, em quantas semanas terás a tua parte?
 
 ---
 
-## 📝 Exercício 8 - Decisões Financeiras
+## 📝 Exercício 5 - Juros Compostos Simples
 
-Tens **60 euros** no mealheiro e encontras estas promoções:
+Os teus pais propõem um desafio:
 
-- **Opção A:** Patins por 55 euros (preço normal: 70 euros)
-- **Opção B:** Skate por 45 euros (preço normal: 50 euros)
-- **Opção C:** Não comprar nada e continuar a poupar para os headphones de 75 euros
+Colocas **€100** no mealheiro. A cada mês, eles acrescentam **3% do total** que lá está.
 
-**a)** Quanto poupas em cada promoção?
+**Mês 0:** €100
+**Mês 1:** €100 + 3% = €100 + €3 = €103
+**Mês 2:** €103 + 3% de €103 = ?
 
-**b)** Se escolheres a Opção B, quanto dinheiro sobra?
+**a)** Quanto terás no mês 2?
 
-**c)** Se escolheres a Opção C e poupares 10 euros por semana, quantas semanas faltam para os headphones?
+**b)** Quanto terás no mês 3?
 
----
+**c)** Após 6 meses, quanto terás aproximadamente?
 
-## 📝 Exercício 9 - Repartir Despesas
-
-Tu e o teu irmão querem comprar um **jogo de vídeo** que custa **48 euros**.
-
-Decidem dividir o custo:
-- Tu pagas **2/3** do preço
-- O teu irmão paga **1/3** do preço
-
-**a)** Quanto vais pagar tu?
-
-**b)** Quanto vai pagar o teu irmão?
-
-**c)** Se já tens 20 euros, quanto ainda precisas de poupar?
+*Dica: Podes usar 1,03 × valor anterior*
 
 ---
 
-## 📝 Exercício 10 - Plano Anual de Poupança
+## 📝 Exercício 6 - Equações de Poupança
 
-Fazes um plano para o ano inteiro:
+Estás a poupar para um **tablet** que custa **€x**.
 
-- **Janeiro a Março:** Poupas 12 euros por mês
-- **Abril a Junho:** Poupas 15 euros por mês
-- **Julho a Setembro:** Férias! Poupas 20 euros por mês
-- **Outubro a Dezembro:** Poupas 10 euros por mês
+Já tens **€85** poupados.
 
-**a)** Quanto poupas no 1º trimestre (Jan-Mar)?
+Decides poupar **€12 por semana** durante **15 semanas**.
 
-**b)** Quanto poupas no 2º trimestre (Abr-Jun)?
+No final deste tempo, terás **exatamente** o que precisas.
 
-**c)** Quanto poupas no 3º trimestre (Jul-Set)?
+**a)** Escreve uma equação para encontrar x (o preço do tablet).
 
-**d)** Quanto poupas no 4º trimestre (Out-Dez)?
+**b)** Resolve a equação. Quanto custa o tablet?
 
-**e)** Quanto poupas no ano inteiro?
-
-**f)** Qual é a média mensal de poupança?
+**c)** Se o tablet entrar em promoção com 20% de desconto, quanto sobra do que poupaste?
 
 ---
 
-## 📝 Exercício 11 - Problema Desafio: O Dobro
+## 📝 Exercício 7 - Análise de Dados e Médias
 
-Decides fazer um desafio:
+Registaste a tua poupança mensal durante 6 meses:
 
-Na **semana 1**, poupas **1 euro**.
+| Mês | Poupança |
+|-----|----------|
+| Jan | €42      |
+| Fev | €38      |
+| Mar | €55      |
+| Abr | €45      |
+| Mai | €40      |
+| Jun | €60      |
 
-Em cada semana seguinte, poupas **o dobro** da semana anterior.
+**a)** Qual é a média mensal de poupança?
 
-**a)** Quanto poupas na semana 2?
+**b)** Qual é a mediana (valor central)?
 
-**b)** Quanto poupas na semana 3?
+**c)** Qual é a amplitude (diferença entre máximo e mínimo)?
 
-**c)** Quanto poupas na semana 4?
+**d)** Se mantiveres a média, quanto pouparás em 1 ano (12 meses)?
 
-**d)** Quanto poupaste no total ao fim de 4 semanas?
-
-*Pensa: Conseguirias manter este padrão durante muitas semanas? Porquê?*
-
----
-
-## 📝 Exercício 12 - Análise de Dados
-
-Registaste a tua poupança durante 5 semanas:
-
-| Semana | Poupança |
-|--------|----------|
-| 1      | 10€      |
-| 2      | 8€       |
-| 3      | 12€      |
-| 4      | 10€      |
-| 5      | 15€      |
-
-**a)** Quanto poupaste no total?
-
-**b)** Qual foi a semana em que poupaste mais?
-
-**c)** Qual foi a semana em que poupaste menos?
-
-**d)** Qual é a diferença entre a semana melhor e a pior?
-
-**e)** Qual é a média semanal?
-
-**f)** Se continuares com esta média, quanto terás em 20 semanas?
+**e)** Em que mês poupaste 37,5% a mais do que a média?
 
 ---
 
-## 🎯 Exercício Final - O Teu Projeto Pessoal
+## 📝 Exercício 8 - Comparação de Lojas com Percentagens
 
-Cria o teu próprio plano de poupança:
+Queres comprar **headphones** e encontras 4 lojas:
 
-**1. O que queres comprar?** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- **Loja A:** €80 com 25% de desconto
+- **Loja B:** €75 com 15% de desconto
+- **Loja C:** €70 com 10% de desconto
+- **Loja D:** €85 com 30% de desconto
 
-**2. Quanto custa?** \_\_\_\_\_\_ euros
+**a)** Calcula o preço final em cada loja.
 
-**3. Quanto já tens?** \_\_\_\_\_\_ euros
+**b)** Qual é a loja mais barata?
 
-**4. Quanto precisas de poupar?** \_\_\_\_\_\_ euros
+**c)** Quanto poupas comprando na mais barata em vez da mais cara?
 
-**5. Quanto podes poupar por semana?** \_\_\_\_\_\_ euros
-
-**6. Em quantas semanas atinges o objetivo?** \_\_\_\_\_\_ semanas
-
-**7. Se os teus pais derem 20% do valor como ajuda, quanto precisas de poupar?** \_\_\_\_\_\_ euros
+**d)** Se tiveres um cupão de €5 extra para usar numa loja, em qual convém usar?
 
 ---
 
-## 💡 Reflexão Final
+## 📝 Exercício 9 - Razões e Proporções
+
+Combinas com os teus pais:
+
+Por cada **€3** que poupares, eles dão **€1**.
+
+A razão é 3:1 (tu:pais).
+
+**a)** Se poupares €60, quanto darão os teus pais?
+
+**b)** Qual será o total no mealheiro?
+
+**c)** Queres chegar a €240 no total. Quanto precisas de poupar tu?
+
+**d)** Se poupares €15 por semana, quantas semanas demoras?
+
+---
+
+## 📝 Exercício 10 - Planeamento Anual com Imprevistos
+
+Fazes um plano para poupar **€800** em 1 ano.
+
+**Plano inicial:**
+- Jan-Mar: €60/mês (€180 total)
+- Abr-Jun: €70/mês (€210 total)
+- Jul-Set: €80/mês (€240 total)
+- Out-Dez: €60/mês (€180 total)
+
+**Total planeado:** €810
+
+**Imprevistos:**
+- Em Março gastas €25 numa emergência
+- Em Agosto recebes €30 de bónus dos avós
+
+**a)** Após os imprevistos, quanto terás realmente no final do ano?
+
+**b)** Atingiste o objetivo de €800?
+
+**c)** Qual é a percentagem do objetivo que atingiste?
+
+---
+
+## 📝 Exercício 11 - Probabilidade e Decisões
+
+Tens €150 no mealheiro. Aparecem 3 oportunidades:
+
+**Oportunidade A:** Jogo que queres muito - €60 (70% de probabilidade de usar frequentemente)
+
+**Oportunidade B:** Livro colecionável - €45 (30% de probabilidade de reler)
+
+**Oportunidade C:** Acessório útil - €35 (90% de probabilidade de usar sempre)
+
+**a)** Se comprares A e C, quanto gastas e quanto sobra?
+
+**b)** Se comprares as 3, quanto falta ou quanto sobra?
+
+**c)** Considerando as probabilidades de uso, qual é a melhor combinação? Justifica.
+
+---
+
+## 📝 Exercício 12 - Inflação e Valor do Dinheiro
+
+Um **jogo** custa hoje **€50**.
+
+A loja avisa que o preço vai aumentar **2% por mês** durante os próximos 6 meses.
+
+**a)** Quanto custará daqui a 3 meses?
+
+**b)** Quanto custará daqui a 6 meses?
+
+**c)** Se poupares €10/mês, consegues comprar antes que fique mais caro que €56?
+
+**d)** Quanto "poupas" comprando hoje em vez de esperar 6 meses?
+
+---
+
+## 📝 Exercício 13 - Gráfico de Poupança
+
+Desenha ou imagina um gráfico da tua poupança:
+
+| Semana | Saldo Total |
+|--------|-------------|
+| 0      | €50         |
+| 2      | €75         |
+| 4      | €110        |
+| 6      | €135        |
+| 8      | €175        |
+
+**a)** Qual foi o período de maior crescimento?
+
+**b)** Qual é a taxa média de poupança por semana?
+
+**c)** Se a tendência continuar, quanto terás na semana 12?
+
+**d)** Quando atingirás €300 aproximadamente?
+
+---
+
+## 📝 Exercício 14 - Conversão e Viagens
+
+Estás a planear uma viagem e precisas de **£180** (libras esterlinas).
+
+A taxa de câmbio é: **€1 = £0,85**
+
+**a)** Quantos euros precisas de trocar?
+
+**b)** Se a taxa mudar para €1 = £0,90, quantos euros precisarias?
+
+**c)** Quanto "pouparias" com a segunda taxa?
+
+**d)** Se poupares €40/mês, em quantos meses terás o necessário (com a primeira taxa)?
+
+---
+
+## 🎯 Exercício Final - Projeto Financeiro Completo
+
+Cria o teu próprio plano financeiro de 1 ano:
+
+**1. Objetivo principal:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**2. Custo:** €\_\_\_\_\_\_
+
+**3. Rendimento mensal disponível:** €\_\_\_\_\_\_
+
+**4. Taxa de poupança mensal:** \_\_\_\_\_%
+
+**5. Valor mensal para o mealheiro:** €\_\_\_\_\_\_
+
+**6. Tempo necessário:** \_\_\_\_\_ meses
+
+**7. Objetivos secundários:**
+   - \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (€\_\_\_\_\_)
+   - \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (€\_\_\_\_\_)
+
+**8. Plano de imprevistos (10% de reserva):** €\_\_\_\_\_\_
+
+**9. Total a poupar:** €\_\_\_\_\_\_
+
+**Faz os cálculos detalhados no verso ou noutra folha.**
+
+---
+
+## 💡 Reflexão Financeira
 
 **Responde com as tuas próprias palavras:**
 
-**1. Porque é importante poupar dinheiro?**
+**1. Qual é a diferença entre juros simples e juros compostos?**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**2. Qual é a diferença entre "querer" e "precisar" de comprar algo?**
+**2. Porque é importante comparar preços e calcular percentagens?**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**3. O que aprendeste sobre planeamento e paciência?**
+**3. Como é que a inflação afeta as tuas poupanças?**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**4. Qual é a importância de ter um fundo de emergência?**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ---
 
-## 🌟 Parabéns pelo teu trabalho! 🌟
+## 🌟 Parabéns, Santiago! 🌟
 
-**A matemática e a poupança são competências para a vida!**
+**Dominas conceitos financeiros avançados!**
+
+A literacia financeira que estás a desenvolver vai ser uma ferramenta poderosa ao longo da tua vida. Compreender percentagens, juros, planeamento e análise de dados são competências essenciais!
+
+**Continua a aprender e a gerir o teu dinheiro com inteligência!** 💰📊🎓
 

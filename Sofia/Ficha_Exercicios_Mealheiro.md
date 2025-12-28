@@ -4,165 +4,253 @@
 
 **Data:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
----
-
-## 📝 Exercício 1 - O Meu Sonho
-
-Vou poupar para comprar um **livro de histórias** que custa **10 euros**.
-
-Já tenho **3 euros** no meu mealheiro.
-
-**Quanto dinheiro ainda preciso de poupar?**
-
-10 - 3 = \_\_\_\_\_
-
-**Resposta:** Ainda preciso de poupar \_\_\_\_\_ euros.
+**Ano:** 2ª Classe
 
 ---
 
-## 📝 Exercício 2 - Poupar Todas as Semanas
+## 📝 Exercício 1 - Planeamento de Poupança
 
-Decidi poupar **2 euros por semana**.
+Quero comprar um **jogo de tabuleiro** que custa **25 euros**.
 
-**Quanto vou poupar em 4 semanas?**
+Já tenho **8 euros** no meu mealheiro.
 
-2 + 2 + 2 + 2 = \_\_\_\_\_
+**a)** Quanto dinheiro ainda preciso de poupar?
 
-ou
+25 - 8 = \_\_\_\_\_
 
-2 × 4 = \_\_\_\_\_
+**b)** Se poupar **3 euros por semana**, quantas semanas vou demorar?
 
-**Resposta:** Vou poupar \_\_\_\_\_ euros.
+\_\_\_\_\_ ÷ 3 = \_\_\_\_\_ semanas
 
----
-
-## 📝 Exercício 3 - Quanto Tempo Falta?
-
-Quero comprar um **jogo** que custa **12 euros**.
-
-Vou poupar **3 euros por semana**.
-
-**Quantas semanas preciso de poupar?**
-
-*Dica: Quantas vezes o 3 cabe no 12?*
-
-3 + 3 + 3 + 3 = 12
-
-**Resposta:** Preciso de poupar durante \_\_\_\_\_ semanas.
+**Resposta:** Ainda preciso de poupar \_\_\_\_\_ euros e vou demorar \_\_\_\_\_ semanas.
 
 ---
 
-## 📝 Exercício 4 - O Mealheiro Cresce!
+## 📝 Exercício 2 - Poupar Durante Dois Meses
 
-Na **1.ª semana** meti **2 euros** no mealheiro.
+Decidi poupar **6 euros por semana**.
 
-Na **2.ª semana** meti mais **2 euros**.
+**a)** Quanto vou poupar em 4 semanas (1 mês)?
 
-Na **3.ª semana** meti mais **2 euros**.
+6 × 4 = \_\_\_\_\_
 
-**Quanto dinheiro tenho agora no mealheiro?**
+**b)** Quanto vou poupar em 8 semanas (2 meses)?
 
-2 + 2 + 2 = \_\_\_\_\_
+6 × 8 = \_\_\_\_\_
 
-**Resposta:** Tenho \_\_\_\_\_ euros no mealheiro.
+**Resposta:** Em 1 mês poupo \_\_\_\_\_ euros e em 2 meses poupo \_\_\_\_\_ euros.
 
 ---
 
-## 📝 Exercício 5 - Dois Objetivos
+## 📝 Exercício 3 - Comparar Preços
 
-Quero comprar:
-- Uma **bola** que custa **5 euros**
-- Um **livro para colorir** que custa **4 euros**
+Vi três opções de **headphones** em diferentes lojas:
 
-**Quanto dinheiro preciso de poupar no total?**
+- **Loja A:** 32 euros
+- **Loja B:** 28 euros
+- **Loja C:** 35 euros
 
-5 + 4 = \_\_\_\_\_
+**a)** Qual é a loja mais barata?
+
+**b)** Quanto poupo se comprar na loja mais barata em vez da mais cara?
+
+35 - 28 = \_\_\_\_\_
+
+**Resposta:** A loja mais barata é \_\_\_\_\_ e poupo \_\_\_\_\_ euros.
+
+---
+
+## 📝 Exercício 4 - Partilhar o Mealheiro
+
+Tenho **24 euros** no mealheiro.
+
+Decido dividir o dinheiro assim:
+- **Metade** para comprar um livro
+- **A outra metade** fica guardada
+
+**a)** Quanto é metade de 24 euros?
+
+24 ÷ 2 = \_\_\_\_\_
+
+**b)** Quanto vai ficar guardado?
+
+**Resposta:** Vou gastar \_\_\_\_\_ euros no livro e ficam \_\_\_\_\_ euros guardados.
+
+---
+
+## 📝 Exercício 5 - Três Objetivos
+
+Quero poupar para comprar:
+1. **Puzzle** - 12 euros
+2. **Marcadores** - 8 euros
+3. **Caderno especial** - 15 euros
+
+**a)** Quanto custa tudo junto?
+
+12 + 8 + 15 = \_\_\_\_\_
+
+**b)** Se já tenho 10 euros, quanto ainda preciso?
+
+\_\_\_\_\_ - 10 = \_\_\_\_\_
 
 **Resposta:** Preciso de poupar \_\_\_\_\_ euros no total.
 
 ---
 
-## 📝 Exercício 6 - A Ajuda dos Avós
+## 📝 Exercício 6 - A Mesada
 
-Tenho **6 euros** no mealheiro.
+Recebo **10 euros** de mesada por semana.
 
-A avó deu-me **5 euros** para meter no mealheiro.
+Gasto **4 euros** em lanches e guardo o resto no mealheiro.
 
-**Quanto dinheiro tenho agora?**
+**a)** Quanto poupo por semana?
 
-6 + 5 = \_\_\_\_\_
+10 - 4 = \_\_\_\_\_
 
-**Resposta:** Agora tenho \_\_\_\_\_ euros.
+**b)** Quanto vou poupar em 6 semanas?
 
----
+\_\_\_\_\_ × 6 = \_\_\_\_\_
 
-## 📝 Exercício 7 - Plano de Poupança
-
-Quero poupar **15 euros** para comprar uns **patins**.
-
-Vou poupar **5 euros por semana**.
-
-**Quantas semanas vou demorar?**
-
-5 + 5 + 5 = 15
-
-ou
-
-5 × \_\_\_\_\_ = 15
-
-**Resposta:** Vou demorar \_\_\_\_\_ semanas.
+**Resposta:** Poupo \_\_\_\_\_ euros por semana e em 6 semanas poupo \_\_\_\_\_ euros.
 
 ---
 
-## 📝 Exercício 8 - Já Posso Comprar?
+## 📝 Exercício 7 - Poupança com Ajuda
 
-Quero comprar um **puzzle** que custa **8 euros**.
+Quero comprar **patins** que custam **50 euros**.
 
-Já tenho **11 euros** no meu mealheiro.
+Já tenho **18 euros** poupados.
 
-**Tenho dinheiro suficiente? Quanto dinheiro vai sobrar?**
+Os meus pais vão dar-me **12 euros** para ajudar.
 
-11 - 8 = \_\_\_\_\_
+**a)** Quanto dinheiro vou ter no total?
 
-**Resposta:** Sim / Não (risca o que não interessa)
+18 + 12 = \_\_\_\_\_
 
-Vão sobrar \_\_\_\_\_ euros.
+**b)** Quanto ainda falta para comprar os patins?
 
----
+50 - \_\_\_\_\_ = \_\_\_\_\_
 
-## 📝 Exercício 9 - A Mesada
-
-Recebo **3 euros** de mesada todas as semanas.
-
-Vou meter **2 euros** no mealheiro e gastar **1 euro**.
-
-**Quanto vou poupar em 5 semanas?**
-
-2 × 5 = \_\_\_\_\_
-
-**Resposta:** Vou poupar \_\_\_\_\_ euros.
+**Resposta:** Vou ter \_\_\_\_\_ euros e ainda faltam \_\_\_\_\_ euros.
 
 ---
 
-## 📝 Exercício 10 - O Meu Objetivo Especial
+## 📝 Exercício 8 - O Desafio das 10 Semanas
 
-**Agora és tu que vais criar o teu problema!**
+Fiz um plano de poupança para 10 semanas:
 
-Eu quero poupar para comprar: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- **Semanas 1 a 5:** Poupo 4 euros por semana
+- **Semanas 6 a 10:** Poupo 6 euros por semana
 
-Isso custa: \_\_\_\_\_ euros
+**a)** Quanto poupo nas primeiras 5 semanas?
 
-Vou poupar \_\_\_\_\_ euros por semana.
+4 × 5 = \_\_\_\_\_
 
-Vou demorar \_\_\_\_\_ semanas.
+**b)** Quanto poupo nas últimas 5 semanas?
+
+6 × 5 = \_\_\_\_\_
+
+**c)** Quanto poupo no total?
+
+\_\_\_\_\_ + \_\_\_\_\_ = \_\_\_\_\_
+
+**Resposta:** No total vou poupar \_\_\_\_\_ euros.
 
 ---
 
-## 🌟 Mensagem Final 🌟
+## 📝 Exercício 9 - Já Chegou ao Objetivo?
 
-**Parabéns por quereres poupar!**
+Quero comprar uma **bola** que custa **18 euros**.
 
-Poupar é um hábito muito importante. Com paciência e dedicação, vais conseguir comprar aquilo que mais desejas!
+Já poupo há 5 semanas e meto **4 euros por semana** no mealheiro.
 
-💪 **Continua a poupar!** 💪
+**a)** Quanto já poupei?
+
+4 × 5 = \_\_\_\_\_
+
+**b)** Já posso comprar a bola? Quanto falta ou quanto sobra?
+
+**Resposta:** Já poupei \_\_\_\_\_ euros. Sim / Não (risca o que não interessa)
+
+Se sim, sobram \_\_\_\_\_ euros. Se não, faltam \_\_\_\_\_ euros.
+
+---
+
+## 📝 Exercício 10 - Dividir com a Irmã
+
+Eu e a minha irmã queremos comprar um **jogo** que custa **36 euros**.
+
+Vamos dividir o preço ao meio (metade cada uma).
+
+**a)** Quanto vou pagar eu?
+
+36 ÷ 2 = \_\_\_\_\_
+
+**b)** Se já tenho 12 euros, quanto ainda preciso de poupar?
+
+\_\_\_\_\_ - 12 = \_\_\_\_\_
+
+**c)** Se poupar 3 euros por semana, quantas semanas demoro?
+
+\_\_\_\_\_ ÷ 3 = \_\_\_\_\_
+
+**Resposta:** Vou pagar \_\_\_\_\_ euros e demoro \_\_\_\_\_ semanas a poupar.
+
+---
+
+## 📝 Exercício 11 - Poupar um Quarto
+
+Tenho **40 euros** no mealheiro.
+
+Quero gastar **um quarto** (1/4) do dinheiro num livro.
+
+**a)** Quanto é um quarto de 40 euros?
+
+40 ÷ 4 = \_\_\_\_\_
+
+**b)** Quanto dinheiro vai ficar no mealheiro?
+
+40 - \_\_\_\_\_ = \_\_\_\_\_
+
+**Resposta:** Vou gastar \_\_\_\_\_ euros e ficam \_\_\_\_\_ euros no mealheiro.
+
+---
+
+## 📝 Exercício 12 - O Meu Plano Pessoal
+
+**Agora cria o teu próprio plano de poupança!**
+
+**1.** O que queres comprar? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**2.** Quanto custa? \_\_\_\_\_ euros
+
+**3.** Quanto já tens? \_\_\_\_\_ euros
+
+**4.** Quanto precisas de poupar? \_\_\_\_\_ euros
+
+**5.** Quanto podes poupar por semana? \_\_\_\_\_ euros
+
+**6.** Quantas semanas vais demorar? \_\_\_\_\_ semanas
+
+**Faz as contas aqui:**
+
+---
+
+## 🌟 Desafio Extra! 🌟
+
+Se poupares **5 euros por semana** durante **um ano inteiro** (52 semanas), quanto dinheiro terás no mealheiro?
+
+5 × 52 = \_\_\_\_\_\_
+
+**Resposta:** Terei \_\_\_\_\_\_ euros! 💰
+
+---
+
+## 💪 Mensagem Final 💪
+
+**Parabéns, Sofia! És uma poupadora inteligente!**
+
+Poupar exige planeamento e paciência. Com o teu esforço, vais conseguir alcançar todos os teus objetivos!
+
+**Continua a poupar e a fazer contas!** 🐷📚
 

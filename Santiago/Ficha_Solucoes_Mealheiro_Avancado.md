@@ -1,591 +1,538 @@
-# 💰 SOLUÇÕES - MEALHEIRO INTELIGENTE 💰
+# 💰 SOLUÇÕES - MEALHEIRO ESTRATÉGICO 💰
 
-**Nível:** 9-10 anos (Avançado)
-
----
-
-## ✅ Exercício 1 - Poupança com Descontos
-
-**a) Quanto vai custar a bicicleta com desconto?**
-
-```
-Preço original: 180 euros
-Desconto: 10% de 180 = 0,10 × 180 = 18 euros
-Preço com desconto: 180 - 18 = 162 euros
-```
-
-**Resposta:** A bicicleta vai custar **162 euros**.
-
-**b) Quanto dinheiro ainda precisas de poupar?**
-
-```
-Preço com desconto: 162 euros
-Já tens: 45 euros
-Falta: 162 - 45 = 117 euros
-```
-
-**Resposta:** Ainda precisas de poupar **117 euros**.
-
-**Conceito:** Percentagens e descontos. 10% significa 10 em cada 100, ou 0,10 em decimal.
+**Ano:** 6º Ano (11-12 anos)
 
 ---
 
-## ✅ Exercício 2 - Comparar Estratégias
+## ✅ Exercício 1 - Orçamento Mensal Complexo
 
-**a) Estratégia A: 8 euros por semana**
-
+**a) Distribuição:**
 ```
-Objetivo: 120 euros
-120 ÷ 8 = 15 semanas
-```
+Total: €45
 
-**Resposta:** **15 semanas**.
+Mealheiro (30%): 45 × 0,30 = €13,50
+Lanches (25%): 45 × 0,25 = €11,25
+Entretenimento (20%): 45 × 0,20 = €9,00
+Prendas (15%): 45 × 0,15 = €6,75
+Emergências (10%): 45 × 0,10 = €4,50
 
-**b) Estratégia B: 12 euros de 15 em 15 dias**
-
-```
-12 euros a cada 2 semanas
-120 ÷ 12 = 10 períodos de 2 semanas
-10 × 2 = 20 semanas
+Verificação: 13,50 + 11,25 + 9 + 6,75 + 4,50 = €45 ✓
 ```
 
-**Resposta:** **20 semanas**.
-
-**c) Qual é a melhor estratégia?**
-
-**Resposta:** A **Estratégia A** é melhor porque demoras apenas 15 semanas, enquanto a B demora 20 semanas (5 semanas a mais).
-
-**Conceito:** Comparação de taxas e análise de estratégias. Importante converter "de 15 em 15 dias" para semanas.
-
----
-
-## ✅ Exercício 3 - Frações da Mesada
-
-**a) Mealheiro (1/2 de 20 euros)**
-
+**b) Com €5 de sobra:**
 ```
-1/2 × 20 = 20 ÷ 2 = 10 euros
+Coloca-se no mealheiro (aumentar poupança)
+Mealheiro total: €13,50 + €5 = €18,50
 ```
 
-**Resposta:** **10 euros** por mês.
-
-**b) Lanches (1/4 de 20 euros)**
-
+**c) Em 1 ano:**
 ```
-1/4 × 20 = 20 ÷ 4 = 5 euros
+€13,50 × 12 meses = €162
 ```
 
-**Resposta:** **5 euros** por mês.
-
-**c) Conta bancária (resto)**
-
-```
-Total: 20 euros
-Mealheiro: 10 euros
-Lanches: 5 euros
-Resto: 20 - 10 - 5 = 5 euros
-```
-
-Ou usando frações:
-```
-1 - 1/2 - 1/4 = 4/4 - 2/4 - 1/4 = 1/4
-1/4 × 20 = 5 euros
-```
-
-**Resposta:** **5 euros** por mês.
-
-**d) Em 6 meses no mealheiro**
-
-```
-10 euros × 6 meses = 60 euros
-```
-
-**Resposta:** **60 euros** em 6 meses.
-
-**Conceito:** Operações com frações e planeamento a longo prazo.
+**Respostas:** a) Distribuição acima; b) €18,50; c) €162/ano
 
 ---
 
-## ✅ Exercício 4 - Juros Simples (Nível Desafio!)
+## ✅ Exercício 2 - Análise de Investimentos
 
+**a) Tempo para cada opção:**
+
+**Opção A:** €650 ÷ €25/semana = 26 semanas
+
+**Opção B:** €650 ÷ €80/mês = 8,125 → 9 meses (arredondado)
+
+**Opção C:** €650 ÷ €50 cada 2 semanas = 13 períodos × 2 = 26 semanas
+
+**b) Opção mais rápida:** Opção A e C empatadas (26 semanas = ~6 meses)
+Mas Opção B tem bónus!
+
+**c) Bónus da Opção B:**
 ```
-Poupança: 40 euros
-Prémio: 1 euro por cada 10 euros
-
-Grupos de 10: 40 ÷ 10 = 4 grupos
-Prémio: 4 × 1 = 4 euros
-Total: 40 + 4 = 44 euros
-```
-
-**Resposta:** Terás **44 euros** no total.
-
-**Conceito:** Introdução a juros/incentivos. O prémio é 10% (1 euro em cada 10 euros = 10%).
-
----
-
-## ✅ Exercício 5 - Objetivos Múltiplos
-
-**a) Custo total**
-
-```
-35 + 15 + 25 = 75 euros
+Total poupado: €80 × 8 = €640
+Bónus: 5% de €640 = €32
+Total: €640 + €32 = €672 (já tens o suficiente!)
 ```
 
-**Resposta:** **75 euros** no total.
-
-**b) Semana dos headphones (35 euros)**
-
-```
-15 euros por semana
-Semana 1: 15 euros
-Semana 2: 30 euros
-Semana 3: 45 euros (já tens mais que 35!)
-```
-
-**Resposta:** Na **semana 3** (ou ao fim de 3 semanas, tens 45 euros).
-
-**c) Depois dos headphones, quantas semanas para o livro?**
-
-```
-Depois de comprar headphones: 45 - 35 = 10 euros sobram
-Livro custa: 15 euros
-Falta: 15 - 10 = 5 euros
-Com 15 euros por semana, na próxima semana já tens!
-```
-
-**Resposta:** **1 semana** adicional (semana 4 no total).
-
-**d) Tempo para os 3 objetivos**
-
-```
-Após headphones (semana 3): sobram 10 euros
-Após livro (semana 4): tens 10 + 15 = 25, compras livro (15), sobram 10 euros
-Jogo custa 25 euros, faltam 15 euros
-Semana 5: 10 + 15 = 25 euros (exatamente para o jogo!)
-```
-
-**Resposta:** **5 semanas** para comprar tudo.
-
-**Conceito:** Planeamento sequencial com objetivos múltiplos e gestão de saldos.
+**Resposta final:** Opção B é melhor pois garante o valor com bónus em 8 meses!
 
 ---
 
-## ✅ Exercício 6 - Percentagens de Progresso
+## ✅ Exercício 3 - Descontos Encadeados
 
-**a) Percentagem já atingida**
-
+**a) Após 1º desconto (15%):**
 ```
-Poupado: 50 euros
-Objetivo: 200 euros
-Percentagem: (50 ÷ 200) × 100 = 0,25 × 100 = 25%
+€420 × 0,15 = €63 de desconto
+€420 - €63 = €357
 ```
 
-**Resposta:** **25%** do objetivo.
-
-**b) Percentagem que falta**
-
+**b) Após 2º desconto (10% de €357):**
 ```
-100% - 25% = 75%
+€357 × 0,10 = €35,70
+€357 - €35,70 = €321,30
 ```
 
-Ou:
+**c) Desconto total:**
 ```
-Falta: 200 - 50 = 150 euros
-(150 ÷ 200) × 100 = 75%
-```
+€420 - €321,30 = €98,70
+Percentagem: (98,70 ÷ 420) × 100 = 23,5%
 
-**Resposta:** Faltam **75%**.
-
-**c) Com mais 30 euros**
-
-```
-Total: 50 + 30 = 80 euros
-(80 ÷ 200) × 100 = 0,4 × 100 = 40%
+NÃO é 25%! É menos porque o segundo desconto aplica-se ao valor já descontado.
 ```
 
-**Resposta:** Terás **40%**.
+**d) Quanto precisas:**
+```
+€321,30 - €180 = €141,30
+```
 
-**Conceito:** Percentagens como proporções. A fórmula é: (parte ÷ todo) × 100.
+**Conceito:** Descontos sucessivos não se somam diretamente!
 
 ---
 
-## ✅ Exercício 7 - Poupança Irregular
+## ✅ Exercício 4 - Divisão Proporcional
 
-**a) Total do mês**
-
+**a) Divisão:**
 ```
-8 + 12 + 5 + 15 = 40 euros
-```
+Tu: 2/5 de €75 = €30
+Amigo A: 2/5 de €75 = €30
+Amigo B: 1/5 de €75 = €15
 
-**Resposta:** **40 euros** no total.
-
-**b) Média por semana**
-
-```
-40 ÷ 4 = 10 euros
+Verificação: 30 + 30 + 15 = €75 ✓
 ```
 
-**Resposta:** Média de **10 euros** por semana.
-
-**c) Em 12 semanas com esta média**
-
+**b) Quanto precisas:**
 ```
-10 × 12 = 120 euros
+€30 - €20 = €10
 ```
 
-**Resposta:** **120 euros** em 12 semanas.
+**c) Semanas:**
+```
+€10 ÷ €4/semana = 2,5 semanas → 3 semanas
+```
 
-**Conceito:** Média aritmética e projeções baseadas em médias.
+**Respostas:** a) Tu e A: €30 cada; B: €15; b) €10; c) 3 semanas
 
 ---
 
-## ✅ Exercício 8 - Decisões Financeiras
+## ✅ Exercício 5 - Juros Compostos Simples
 
-**a) Poupanças em cada promoção**
-
+**a) Mês 2:**
 ```
-Opção A: 70 - 55 = 15 euros de desconto
-Opção B: 50 - 45 = 5 euros de desconto
+€103 × 1,03 = €106,09
 ```
 
-**Resposta:** Opção A poupa **15 euros**, Opção B poupa **5 euros**.
-
-**b) Dinheiro que sobra (Opção B)**
-
+**b) Mês 3:**
 ```
-Tens: 60 euros
-Compras: 45 euros
-Sobra: 60 - 45 = 15 euros
+€106,09 × 1,03 = €109,27
 ```
 
-**Resposta:** Sobram **15 euros**.
-
-**c) Semanas para headphones (Opção C)**
-
+**c) Mês 6:**
 ```
-Tens: 60 euros
-Precisas: 75 euros
-Falta: 75 - 60 = 15 euros
-Com 10 euros/semana: 15 ÷ 10 = 1,5 semanas
+Método 1: Multiplicar sucessivamente
+€100 × 1,03^6 = €100 × 1,1941 = €119,41
+
+Método 2: Passo a passo
+Mês 0: €100
+Mês 1: €103
+Mês 2: €106,09
+Mês 3: €109,27
+Mês 4: €112,55
+Mês 5: €115,93
+Mês 6: €119,41
 ```
 
-**Resposta:** **2 semanas** (arredondando 1,5 para cima, porque não podes ter meia semana completa).
+**Resposta:** Aproximadamente €119,40
 
-**Conceito:** Análise de decisões financeiras, comparar benefícios e custos de oportunidade.
+**Conceito:** Juros compostos crescem exponencialmente!
 
 ---
 
-## ✅ Exercício 9 - Repartir Despesas
+## ✅ Exercício 6 - Equações de Poupança
 
-**a) Tu pagas (2/3 de 48)**
-
+**a) Equação:**
 ```
-2/3 × 48 = (2 × 48) ÷ 3 = 96 ÷ 3 = 32 euros
-```
-
-**Resposta:** Tu pagas **32 euros**.
-
-**b) Irmão paga (1/3 de 48)**
-
-```
-1/3 × 48 = 48 ÷ 3 = 16 euros
+85 + (12 × 15) = x
+ou
+85 + 180 = x
 ```
 
-**Resposta:** O teu irmão paga **16 euros**.
-
-*Verificação: 32 + 16 = 48 ✓*
-
-**c) Quanto precisas de poupar**
-
+**b) Resolução:**
 ```
-Precisas: 32 euros
-Tens: 20 euros
-Falta: 32 - 20 = 12 euros
+x = 85 + 180
+x = €265
 ```
 
-**Resposta:** Precisas de poupar **12 euros**.
+**c) Com 20% de desconto:**
+```
+Preço com desconto: €265 × 0,80 = €212
+Sobra: €265 - €212 = €53
+```
 
-**Conceito:** Frações de quantidades e repartição proporcional.
+**Respostas:** a) 85 + 12×15 = x; b) €265; c) Sobram €53
 
 ---
 
-## ✅ Exercício 10 - Plano Anual de Poupança
+## ✅ Exercício 7 - Análise de Dados e Médias
 
-**a) 1º trimestre (Jan-Mar: 3 meses)**
-
+**a) Média:**
 ```
-12 × 3 = 36 euros
-```
-
-**Resposta:** **36 euros**.
-
-**b) 2º trimestre (Abr-Jun: 3 meses)**
-
-```
-15 × 3 = 45 euros
+(42 + 38 + 55 + 45 + 40 + 60) ÷ 6 = 280 ÷ 6 = €46,67
 ```
 
-**Resposta:** **45 euros**.
-
-**c) 3º trimestre (Jul-Set: 3 meses)**
-
+**b) Mediana:**
 ```
-20 × 3 = 60 euros
+Ordenar: 38, 40, 42, 45, 55, 60
+Mediana = (42 + 45) ÷ 2 = €43,50
 ```
 
-**Resposta:** **60 euros**.
-
-**d) 4º trimestre (Out-Dez: 3 meses)**
-
+**c) Amplitude:**
 ```
-10 × 3 = 30 euros
+60 - 38 = €22
 ```
 
-**Resposta:** **30 euros**.
-
-**e) Ano inteiro**
-
+**d) Em 1 ano:**
 ```
-36 + 45 + 60 + 30 = 171 euros
+€46,67 × 12 = €560
 ```
 
-**Resposta:** **171 euros** no ano.
-
-**f) Média mensal**
-
+**e) 37,5% acima da média:**
 ```
-171 ÷ 12 = 14,25 euros
+46,67 × 1,375 = €64,17
+
+Nenhum mês! O mais próximo é Junho com €60 (28,5% acima).
+Possível erro no enunciado ou nenhum mês atinge.
 ```
 
-**Resposta:** Média de **14,25 euros** por mês.
-
-**Conceito:** Planeamento a longo prazo, somas parciais e média aritmética.
+**Respostas:** a) €46,67; b) €43,50; c) €22; d) €560; e) Nenhum mês exato
 
 ---
 
-## ✅ Exercício 11 - Problema Desafio: O Dobro
+## ✅ Exercício 8 - Comparação de Lojas
 
-**a) Semana 2**
-
+**a) Preços finais:**
 ```
-Semana 1: 1 euro
-Semana 2: 1 × 2 = 2 euros
-```
-
-**Resposta:** **2 euros**.
-
-**b) Semana 3**
-
-```
-Semana 2: 2 euros
-Semana 3: 2 × 2 = 4 euros
+Loja A: €80 × 0,75 = €60
+Loja B: €75 × 0,85 = €63,75
+Loja C: €70 × 0,90 = €63
+Loja D: €85 × 0,70 = €59,50
 ```
 
-**Resposta:** **4 euros**.
+**b) Loja mais barata:** Loja D (€59,50)
 
-**c) Semana 4**
-
+**c) Poupança:**
 ```
-Semana 3: 4 euros
-Semana 4: 4 × 2 = 8 euros
+€63,75 - €59,50 = €4,25 (entre mais cara e mais barata)
 ```
 
-**Resposta:** **8 euros**.
-
-**d) Total em 4 semanas**
-
+**d) Cupão de €5:**
 ```
-1 + 2 + 4 + 8 = 15 euros
+Loja A: €60 - €5 = €55
+Loja B: €63,75 - €5 = €58,75
+Loja C: €63 - €5 = €58
+Loja D: €59,50 - €5 = €54,50 ← Melhor!
 ```
 
-**Resposta:** **15 euros** no total.
-
-**Reflexão:** Este padrão é difícil de manter porque cresce muito rápido! Na semana 5 seriam 16 euros, na semana 6 seriam 32 euros, na semana 7 seriam 64 euros... É uma **progressão geométrica** (cada termo é o anterior multiplicado por 2).
-
-**Conceito:** Progressões geométricas e crescimento exponencial.
+**Resposta:** Usar o cupão na Loja D (preço final: €54,50)
 
 ---
 
-## ✅ Exercício 12 - Análise de Dados
+## ✅ Exercício 9 - Razões e Proporções
 
-**a) Total**
-
+**a) Contribuição dos pais:**
 ```
-10 + 8 + 12 + 10 + 15 = 55 euros
-```
-
-**Resposta:** **55 euros**.
-
-**b) Semana com mais poupança**
-
-**Resposta:** **Semana 5** (15 euros).
-
-**c) Semana com menos poupança**
-
-**Resposta:** **Semana 2** (8 euros).
-
-**d) Diferença entre melhor e pior**
-
-```
-15 - 8 = 7 euros
+Razão 3:1
+Se poupares €60, pais dão: €60 ÷ 3 = €20
 ```
 
-**Resposta:** **7 euros** de diferença.
-
-**e) Média semanal**
-
+**b) Total:**
 ```
-55 ÷ 5 = 11 euros
+€60 + €20 = €80
 ```
 
-**Resposta:** **11 euros** por semana.
-
-**f) Em 20 semanas com esta média**
-
+**c) Para chegar a €240:**
 ```
-11 × 20 = 220 euros
+Razão mantém-se 3:1
+Tu: 3/4 de €240 = €180
+Pais: 1/4 de €240 = €60
 ```
 
-**Resposta:** **220 euros** em 20 semanas.
+**d) Semanas:**
+```
+€180 ÷ €15/semana = 12 semanas
+```
 
-**Conceito:** Análise estatística básica (máximo, mínimo, amplitude, média) e projeções.
+**Respostas:** a) €20; b) €80; c) €180; d) 12 semanas
 
 ---
 
-## 🎯 Exercício Final - O Teu Projeto Pessoal
+## ✅ Exercício 10 - Planeamento Anual com Imprevistos
 
-**Exemplo de resolução:**
+**a) Cálculo real:**
+```
+Plano: €810
+Imprevisto Março: -€25
+Bónus Agosto: +€30
+Total real: €810 - €25 + €30 = €815
+```
 
-1. **O que queres comprar?** Tablet
-2. **Quanto custa?** 250 euros
-3. **Quanto já tens?** 30 euros
-4. **Quanto precisas de poupar?** 250 - 30 = 220 euros
-5. **Quanto podes poupar por semana?** 15 euros
-6. **Em quantas semanas?** 220 ÷ 15 = 14,67 → **15 semanas**
-7. **Com 20% de ajuda dos pais:**
-   - Ajuda: 20% de 220 = 0,20 × 220 = 44 euros
-   - Precisas: 220 - 44 = 176 euros
-   - Semanas: 176 ÷ 15 = 11,73 → **12 semanas**
+**b) Objetivo atingido?** Sim! €815 > €800
 
-**Nota:** As respostas variam conforme o objetivo pessoal de cada aluno!
+**c) Percentagem:**
+```
+(815 ÷ 800) × 100 = 101,875% ≈ 102%
+```
 
----
-
-## 💡 Reflexão Final
-
-**Exemplo de respostas esperadas:**
-
-**1. Porque é importante poupar dinheiro?**
-- Para atingir objetivos e comprar coisas importantes
-- Para ter segurança em emergências
-- Para aprender a gerir recursos
-- Para não gastar tudo de uma vez
-
-**2. Diferença entre "querer" e "precisar":**
-- "Precisar" é algo essencial (comida, roupa, escola)
-- "Querer" é algo que desejamos mas não é essencial (jogos, brinquedos)
-- Devemos primeiro satisfazer necessidades, depois desejos
-
-**3. O que aprendeste sobre planeamento e paciência?**
-- Com um plano posso atingir objetivos maiores
-- Poupar requer paciência e disciplina
-- É melhor planear do que gastar sem pensar
-- Pequenas poupanças regulares crescem com o tempo
+**Respostas:** a) €815; b) Sim; c) 102% do objetivo
 
 ---
 
-## 📚 NOTAS PEDAGÓGICAS PARA EDUCADORES
+## ✅ Exercício 11 - Probabilidade e Decisões
 
-### Conceitos Matemáticos Trabalhados:
+**a) Comprar A + C:**
+```
+€60 + €35 = €95
+Sobra: €150 - €95 = €55
+```
 
-#### Aritmética Avançada:
-- ✅ Operações com números até 200+
-- ✅ Divisão com restos e arredondamentos
-- ✅ Problemas multi-etapa
+**b) Comprar A + B + C:**
+```
+€60 + €45 + €35 = €140
+Sobra: €150 - €140 = €10
+```
 
-#### Frações e Decimais:
-- ✅ Frações de quantidades (1/2, 1/3, 1/4, 2/3)
-- ✅ Conversão entre frações e decimais
-- ✅ Operações com frações
+**c) Melhor combinação:**
+```
+Análise por valor esperado de uso:
+A: 70% de €60 = alto valor (uso frequente)
+B: 30% de €45 = baixo valor (uso raro)
+C: 90% de €35 = altíssimo valor (uso constante)
 
-#### Percentagens:
-- ✅ Cálculo de percentagens (10%, 20%, 25%)
-- ✅ Descontos e acréscimos
-- ✅ Percentagens de progresso
+Melhor: A + C (€95) - máximo valor de uso, sobra €55
+Evitar: B - baixa probabilidade de uso
+```
 
-#### Estatística Básica:
+**Resposta:** A + C é a melhor opção (uso garantido + margem)
+
+---
+
+## ✅ Exercício 12 - Inflação e Valor do Dinheiro
+
+**a) Daqui a 3 meses:**
+```
+€50 × 1,02^3 = €50 × 1,0612 = €53,06
+```
+
+**b) Daqui a 6 meses:**
+```
+€50 × 1,02^6 = €50 × 1,1262 = €56,31
+```
+
+**c) Consegues comprar antes de €56?**
+```
+Sim! Com €10/mês:
+Mês 0: €0
+Mês 1: €10 | Preço: €51
+Mês 2: €20 | Preço: €52,02
+Mês 3: €30 | Preço: €53,06
+Mês 4: €40 | Preço: €54,12
+Mês 5: €50 | Preço: €55,20 → Podes comprar!
+```
+
+**d) Poupança comprando hoje:**
+```
+€56,31 - €50 = €6,31
+```
+
+**Conceito:** A inflação corrói o poder de compra!
+
+---
+
+## ✅ Exercício 13 - Gráfico de Poupança
+
+**a) Período de maior crescimento:**
+```
+Semana 0-2: +€25
+Semana 2-4: +€35 ← Maior!
+Semana 4-6: +€25
+Semana 6-8: +€40 ← Maior ainda!
+
+Resposta: Semana 6-8 (+€40)
+```
+
+**b) Taxa média:**
+```
+Total crescimento: €175 - €50 = €125 em 8 semanas
+Média: €125 ÷ 8 = €15,625/semana ≈ €15,60
+```
+
+**c) Semana 12:**
+```
+Crescimento adicional: 4 semanas × €15,60 = €62,40
+€175 + €62,40 = €237,40
+```
+
+**d) Quando €300:**
+```
+Falta: €300 - €175 = €125
+€125 ÷ €15,60 ≈ 8 semanas
+Semana 8 + 8 = Semana 16
+```
+
+---
+
+## ✅ Exercício 14 - Conversão e Viagens
+
+**a) Euros necessários (taxa €1 = £0,85):**
+```
+£180 ÷ 0,85 = €211,76
+```
+
+**b) Com nova taxa (€1 = £0,90):**
+```
+£180 ÷ 0,90 = €200
+```
+
+**c) Poupança:**
+```
+€211,76 - €200 = €11,76
+```
+
+**d) Meses necessários:**
+```
+€211,76 ÷ €40/mês = 5,29 → 6 meses
+```
+
+**Conceito:** Taxas de câmbio afetam significativamente o custo!
+
+---
+
+## 🎯 Exercício Final - Projeto Pessoal
+
+**Exemplo completo:**
+
+1. **Objetivo:** Computador portátil
+2. **Custo:** €850
+3. **Rendimento disponível:** €60/mês
+4. **Taxa de poupança:** 50%
+5. **Valor mensal:** €30
+6. **Tempo:** 850 ÷ 30 = 28,3 → 29 meses
+7. **Objetivos secundários:**
+   - Rato gaming (€45)
+   - Mochila (€35)
+8. **Reserva 10%:** €93 (10% de €930 total)
+9. **Total a poupar:** €930
+
+---
+
+## 💡 Reflexão Financeira - Respostas Esperadas
+
+**1. Juros simples vs. compostos:**
+
+Juros simples: calculados sempre sobre o valor inicial
+Juros compostos: calculados sobre o valor acumulado (juros sobre juros)
+Os compostos crescem muito mais rápido!
+
+**2. Importância de comparar preços:**
+
+Diferentes lojas têm preços diferentes. Percentagens ajudam a calcular descontos reais e comparar ofertas. Pequenas diferenças acumulam ao longo do tempo.
+
+**3. Inflação:**
+
+A inflação faz os preços subirem, reduzindo o poder de compra. O dinheiro parado perde valor. Por isso é importante investir ou comprar antes que fique mais caro.
+
+**4. Fundo de emergência:**
+
+Imprevistos acontecem (doença, quebra de equipamento). Ter uma reserva (10-20%) evita gastar poupanças de objetivos importantes e dá segurança.
+
+---
+
+## 📚 NOTAS PEDAGÓGICAS
+
+### Conceitos Matemáticos (6º Ano):
+
+#### Percentagens Avançadas:
+- ✅ Cálculo de percentagens variadas (15%, 20%, 25%, 30%)
+- ✅ Descontos encadeados
+- ✅ Percentagem de um valor e valor de uma percentagem
+- ✅ Problemas inversos de percentagens
+
+#### Frações e Proporções:
+- ✅ Frações complexas (2/5, 3/4, etc.)
+- ✅ Divisão proporcional
+- ✅ Razões (3:1)
+- ✅ Regra de três simples
+
+#### Juros:
+- ✅ Juros simples
+- ✅ Juros compostos básicos
+- ✅ Crescimento exponencial
+
+#### Estatística:
 - ✅ Média aritmética
-- ✅ Máximo e mínimo
+- ✅ Mediana
 - ✅ Amplitude
-- ✅ Análise de dados em tabela
+- ✅ Análise de gráficos e tendências
 
-#### Padrões e Sequências:
-- ✅ Progressões aritméticas
-- ✅ Progressões geométricas
-- ✅ Identificação de padrões
+#### Equações:
+- ✅ Equações de primeiro grau
+- ✅ Resolução de problemas com incógnitas
+- ✅ Verificação de soluções
 
-#### Resolução de Problemas:
-- ✅ Problemas de múltiplas etapas
-- ✅ Tomada de decisões baseada em dados
-- ✅ Planeamento a curto e longo prazo
-- ✅ Comparação de estratégias
+#### Números Decimais:
+- ✅ Operações com decimais
+- ✅ Arredondamentos
+- ✅ Conversões monetárias
 
-### Conceitos de Literacia Financeira:
+### Literacia Financeira Avançada:
 
-- ✅ Poupança sistemática vs. irregular
-- ✅ Estabelecer e priorizar objetivos
-- ✅ Descontos e promoções
-- ✅ Custo de oportunidade
-- ✅ Incentivos e "juros"
-- ✅ Partilha de custos
-- ✅ Orçamento mensal e anual
-- ✅ Diferença entre necessidades e desejos
-- ✅ Planeamento financeiro a longo prazo
-
-### Competências Transversais:
-
-- ✅ Pensamento crítico
-- ✅ Análise comparativa
-- ✅ Tomada de decisões informadas
-- ✅ Planeamento estratégico
-- ✅ Autocontrolo e paciência
-- ✅ Estabelecimento de metas
-
-### Sugestões de Utilização:
-
-1. **Diferenciação:** Nem todos os alunos precisam fazer todos os exercícios - selecione conforme o nível
-2. **Discussão:** Os exercícios 2, 8 e reflexão final são ótimos para discussão em grupo
-3. **Calculadora:** Permitir calculadora nos exercícios mais complexos (10-12) foca a atenção na resolução, não no cálculo
-4. **Projeto Real:** O exercício final pode ser transformado num projeto real de poupança
-5. **Visualização:** Criar gráficos das poupanças (exercício 12) ajuda a consolidar conceitos
-
-### Extensões Possíveis:
-
-- **Gráficos:** Criar gráficos de barras ou linhas das poupanças
-- **Tabelas:** Tabelas de amortização de poupança
-- **Comparações:** Comparar taxas de poupança entre diferentes objetivos
-- **Inflação:** Introduzir a noção de que os preços podem mudar
-- **Juros Compostos:** Próximo nível após juros simples
-
-### Avaliação:
-
-Esta ficha permite avaliar:
-- ✅ Domínio de operações básicas
-- ✅ Compreensão de frações e percentagens
-- ✅ Capacidade de resolução de problemas complexos
-- ✅ Raciocínio lógico e planeamento
-- ✅ Aplicação de matemática a situações reais
+- 💰 Orçamento mensal complexo
+- 💰 Análise comparativa de investimentos
+- 💰 Descontos e promoções complexas
+- 💰 Juros compostos e crescimento exponencial
+- 💰 Inflação e valor do dinheiro no tempo
+- 💰 Câmbios e conversões
+- 💰 Planeamento a longo prazo
+- 💰 Gestão de imprevistos
+- 💰 Análise custo-benefício
+- 💰 Tomada de decisões financeiras informadas
+- 💰 Probabilidade aplicada a compras
+- 💰 Fundos de emergência
 
 ### Tempo Estimado:
 
-- **Exercícios 1-6:** 30-40 minutos
-- **Exercícios 7-12:** 30-40 minutos
-- **Exercício final e reflexão:** 15-20 minutos
-- **Total:** 75-100 minutos (pode ser dividido em 2 sessões)
+- **Total:** 120-180 minutos
+- **Por sessão:** 30-45 minutos
+- **Sessões:** 4-6 sessões
+- **Exercícios por sessão:** 2-3 exercícios
+
+### Para Pais/Educadores:
+
+**Estes exercícios desenvolvem:**
+1. Pensamento crítico e analítico
+2. Tomada de decisões baseada em dados
+3. Planeamento estratégico
+4. Literacia financeira essencial para a vida adulta
+5. Competências matemáticas do 6º ano
+
+**Dificuldade:** Alta - apropriada para 6º ano avançado
+
+**Extensões possíveis:**
+- Criar folhas de cálculo no Excel
+- Pesquisar taxas de juro reais
+- Comparar preços online
+- Fazer orçamentos familiares reais
 
 ---
 
-## 🌟 Excelente trabalho! 🌟
+## 🌟 Excelente, Santiago! 🌟
 
-**Esta ficha desenvolve competências matemáticas e financeiras essenciais para a vida!**
+**Dominas matemática financeira ao nível do 6º ano!**
+
+Estas competências são fundamentais para:
+- Gerir o teu dinheiro na adolescência
+- Compreender economia e finanças
+- Tomar decisões informadas
+- Preparar-te para a vida adulta
+
+**Continua a desenvolver a tua inteligência financeira!** 🎓💰📊
 
