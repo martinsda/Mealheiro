@@ -176,7 +176,7 @@ Clique em cada ficheiro e selecione "Raw" → Guardar como .md ou copiar o conte
 
 ### Opção 3: Clonar o Repositório
 ```bash
-git clone https://github.com/[seu-usuario]/Mealheiro.git
+git clone https://github.com/martinsda/Mealheiro.git
 cd Mealheiro
 ```
 
@@ -234,8 +234,8 @@ Desenvolvido com 💙 por um pai/educador preocupado com a literacia financeira 
 
 Tens sugestões? Encontraste erros? Queres partilhar como usaste o material?
 
-- 🐛 Reporta problemas na secção [Issues](https://github.com/[seu-usuario]/Mealheiro/issues)
-- 💬 Inicia discussões em [Discussions](https://github.com/[seu-usuario]/Mealheiro/discussions)
+- 🐛 Reporta problemas na secção [Issues](https://github.com/martinsda/Mealheiro/issues)
+- 💬 Inicia discussões em [Discussions](https://github.com/martinsda/Mealheiro/discussions)
 - ⭐ Se achaste útil, deixa uma estrela no repositório!
 
 ---
