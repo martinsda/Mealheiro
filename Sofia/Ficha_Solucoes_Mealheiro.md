@@ -177,7 +177,7 @@ Sobram: 20 - 18 = 2 euros
 
 ---
 
-## ✅ Exercício 10 - Dividir com a Irmã
+## ✅ Exercício 10 - Dividir com a Maria Rita
 
 **a) Quanto vou pagar:**
 ```

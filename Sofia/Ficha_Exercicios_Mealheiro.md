@@ -176,9 +176,9 @@ Se sim, sobram \_\_\_\_\_ euros. Se não, faltam \_\_\_\_\_ euros.
 
 ---
 
-## 📝 Exercício 10 - Dividir com a Irmã
+## 📝 Exercício 10 - Dividir com a Maria Rita
 
-Eu e a minha irmã queremos comprar um **jogo** que custa **36 euros**.
+Eu e a minha amiga Maria Rita queremos comprar um **jogo** que custa **36 euros**.
 
 Vamos dividir o preço ao meio (metade cada uma).
 
