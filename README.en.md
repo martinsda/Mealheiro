@@ -263,8 +263,9 @@ Have suggestions? Found errors? Want to share how you used the material?
 
 ### To Learn More About Children's Financial Literacy:
 
-- [Todos Contam - National Financial Training Plan](https://www.todoscontam.pt/) (Portuguese)
-- [Money Museum - Bank of Portugal](https://www.museudodinheiro.pt/) (Portuguese)
+- [FDIC Money Smart for Young People](https://www.fdic.gov/consumer-resource-center/money-smart-young-people) - Free curricula for pre-K through 12th grade (US)
+- [Bank of England Education Resources](https://www.bankofengland.co.uk/education) - Money and Me lessons for ages 5-11, econoME for secondary students (UK)
+- [Consumer Financial Protection Bureau - Youth Financial Education](https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/) - Tools for teaching financial literacy across the curriculum (US)
 
 ### Useful Tools:
 
