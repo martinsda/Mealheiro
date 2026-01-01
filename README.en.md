@@ -32,10 +32,18 @@ Mealheiro/
 ├── docs/
 │   ├── pt/
 │   │   ├── Sofia/
+│   │   │   ├── Ficha_Exercicios_Mealheiro.md
+│   │   │   └── Ficha_Solucoes_Mealheiro.md
 │   │   └── Santiago/
+│   │       ├── Ficha_Exercicios_Mealheiro_Avancado.md
+│   │       └── Ficha_Solucoes_Mealheiro_Avancado.md
 │   └── en/
 │       ├── Sofia/
+│       │   ├── Piggy_Bank_Worksheet.md
+│       │   └── Piggy_Bank_Solutions.md
 │       └── Santiago/
+│           ├── Advanced_Piggy_Bank_Worksheet.md
+│           └── Advanced_Piggy_Bank_Solutions.md
 ```
 
 ### 📁 Folders
