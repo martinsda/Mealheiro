@@ -6,6 +6,8 @@
 
 Projeto educativo que combina matemática e literacia financeira através de fichas pedagógicas centradas no uso do mealheiro como ferramenta de aprendizagem.
 
+**Português** | **[English](README.en.md)**
+
 ---
 
 ## 📖 Sobre o Projeto
@@ -25,18 +27,36 @@ Este repositório contém material pedagógico gratuito para ensinar conceitos d
 
 ```
 Mealheiro/
-├── README.md
-├── Sofia/
-│   ├── Ficha_Exercicios_Mealheiro.md
-│   └── Ficha_Solucoes_Mealheiro.md
-└── Santiago/
-    ├── Ficha_Exercicios_Mealheiro_Avancado.md
-    └── Ficha_Solucoes_Mealheiro_Avancado.md
+├── README.md (Português)
+├── README.en.md (English)
+├── docs/
+│   ├── pt/
+│   │   ├── Sofia/
+│   │   │   ├── Ficha_Exercicios_Mealheiro.md
+│   │   │   └── Ficha_Solucoes_Mealheiro.md
+│   │   └── Santiago/
+│   │       ├── Ficha_Exercicios_Mealheiro_Avancado.md
+│   │       └── Ficha_Solucoes_Mealheiro_Avancado.md
+│   └── en/
+│       ├── Sofia/
+│       │   ├── Ficha_Exercicios_Mealheiro.md
+│       │   └── Ficha_Solucoes_Mealheiro.md
+│       └── Santiago/
+│           ├── Ficha_Exercicios_Mealheiro_Avancado.md
+│           └── Ficha_Solucoes_Mealheiro_Avancado.md
 ```
+
+### 🌍 Línguas Disponíveis
+
+Este projeto está disponível em:
+- **🇵🇹 Português** - `docs/pt/` (README principal)
+- **🇬🇧 English** - `docs/en/` ([README.en.md](README.en.md))
+
+Todas as fichas de exercícios e soluções estão traduzidas para ambas as línguas.
 
 ### 📁 Pastas
 
-#### **Sofia/** - 2ª Classe (7-8 anos, nível avançado)
+#### **docs/pt/Sofia/** - 2ª Classe (7-8 anos, nível avançado)
 Fichas adequadas para crianças de 7-8 anos na 2ª classe com nível avançado em matemática.
 
 **Conteúdo:**
@@ -47,7 +67,7 @@ Fichas adequadas para crianças de 7-8 anos na 2ª classe com nível avançado e
 - Problemas de 2-3 etapas
 - Conceitos: poupar para objetivos, planeamento semanal e mensal, comparar preços, dividir despesas
 
-#### **Santiago/** - 6º Ano (11-12 anos)
+#### **docs/pt/Santiago/** - 6º Ano (11-12 anos)
 Fichas para alunos de 11-12 anos do 6º ano com matemática avançada.
 
 **Conteúdo:**
@@ -176,7 +196,7 @@ Fichas para alunos de 11-12 anos do 6º ano com matemática avançada.
 ## 🛠️ Tecnologias
 
 - **Formato:** Markdown (.md)
-- **Língua:** Português (PT-PT)
+- **Línguas:** Português (PT-PT) e Inglês (EN)
 - **Compatibilidade:** Qualquer leitor de Markdown, GitHub, editores de texto
 
 ---
@@ -184,7 +204,7 @@ Fichas para alunos de 11-12 anos do 6º ano com matemática avançada.
 ## 📥 Como Utilizar Este Material
 
 ### Opção 1: Visualizar Online
-Navegue pelas pastas `Sofia/` ou `Santiago/` e visualize os ficheiros diretamente no GitHub.
+Navegue pelas pastas `docs/pt/Sofia/` ou `docs/pt/Santiago/` (português) ou `docs/en/Sofia/` ou `docs/en/Santiago/` (inglês) e visualize os ficheiros diretamente no GitHub.
 
 ### Opção 2: Download Individual
 Clique em cada ficheiro e selecione "Raw" → Guardar como .md ou copiar o conteúdo.
