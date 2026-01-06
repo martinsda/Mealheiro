@@ -47,14 +47,29 @@ Mealheiro total: €13,50 + €5 = €18,50
 **b) Opção mais rápida:** Opção A e C empatadas (26 semanas = ~6 meses)
 Mas Opção B tem bónus!
 
-**c) Bónus da Opção B:**
+**c) Bónus da Opção B (proporcional ao tempo):**
 ```
-Total poupado: €80 × 8 = €640
-Bónus: 5% de €640 = €32
-Total: €640 + €32 = €672 (já tens o suficiente!)
+Total poupado em 8 meses: €80 × 8 = €640
+
+Como o bónus é anual (5% por ano), em 8 meses recebe-se uma fração:
+Bónus proporcional: 5% × (8 meses ÷ 12 meses) = 5% × 0,6667 = 3,33%
+
+Bónus: €640 × 3,33% = €640 × 0,0333 = €21,33
+Total em 8 meses: €640 + €21,33 = €661,33
+```
+**Com o bónus proporcional, atinge €661,33 em 8 meses - já tem o suficiente!**
+
+**Comparação final:**
+```
+Opção A: 26 semanas (~6 meses) = €650 → MAIS RÁPIDA!
+Opção B: 8 meses = €661,33 (com bónus)
+Opção C: 26 semanas (~6 meses) = €650 → MAIS RÁPIDA!
 ```
 
-**Resposta final:** Opção B é melhor pois garante o valor com bónus em 8 meses!
+**Resposta final:**
+- **Mais rápida:** Opções A e C (6 meses vs 8 meses)
+- **Vantagem da Opção B:** Recebes €11,33 extra, mas demora mais 2 meses
+- **Decisão:** Depende da prioridade - rapidez (A/C) ou rendimento extra (B)
 
 ---
 
@@ -329,14 +344,22 @@ Evitar: B - baixa probabilidade de uso
 
 **c) Consegues comprar antes de €56?**
 ```
-Sim! Com €10/mês:
-Mês 0: €0
-Mês 1: €10 | Preço: €51
-Mês 2: €20 | Preço: €52,02
-Mês 3: €30 | Preço: €53,06
-Mês 4: €40 | Preço: €54,12
-Mês 5: €50 | Preço: €55,20 → Podes comprar!
+NÃO! Análise mês a mês com €10/mês:
+
+Mês 0: €0 | Preço: €50,00
+Mês 1: €10 | Preço: €51,00 (faltam €41,00)
+Mês 2: €20 | Preço: €52,02 (faltam €32,02)
+Mês 3: €30 | Preço: €53,06 (faltam €23,06)
+Mês 4: €40 | Preço: €54,12 (faltam €14,12)
+Mês 5: €50 | Preço: €55,20 (faltam €5,20) ← Ainda não tens o suficiente!
+Mês 6: €60 | Preço: €56,31 → Agora tens o suficiente, mas já ultrapassou €56!
+
+Resposta: NÃO consegues. Quando finalmente tens dinheiro suficiente (mês 6 com €60),
+o preço já subiu para €56,31, ultrapassando o limite de €56.
 ```
+
+**Lição importante:** A inflação pode impedir-te de comprar algo se poupares muito lentamente.
+Neste caso, o preço sobe mais rápido (2%/mês) do que consegues poupar!
 
 **d) Poupança comprando hoje:**
 ```

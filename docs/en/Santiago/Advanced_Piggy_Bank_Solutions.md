@@ -47,14 +47,29 @@ Total piggy bank: €13.50 + €5 = €18.50
 **b) Fastest option:** Options A and C tied (26 weeks = ~6 months)
 But Option B has a bonus!
 
-**c) Option B bonus:**
+**c) Option B bonus (proportional to time):**
 ```
-Total saved: €80 × 8 = €640
-Bonus: 5% of €640 = €32
-Total: €640 + €32 = €672 (you already have enough!)
+Total saved in 8 months: €80 × 8 = €640
+
+Since the bonus is annual (5% per year), in 8 months you receive a fraction:
+Proportional bonus: 5% × (8 months ÷ 12 months) = 5% × 0.6667 = 3.33%
+
+Bonus: €640 × 3.33% = €640 × 0.0333 = €21.33
+Total in 8 months: €640 + €21.33 = €661.33
+```
+**With the proportional bonus, you reach €661.33 in 8 months - already enough!**
+
+**Final comparison:**
+```
+Option A: 26 weeks (~6 months) = €650 → FASTEST!
+Option B: 8 months = €661.33 (with bonus)
+Option C: 26 weeks (~6 months) = €650 → FASTEST!
 ```
 
-**Final answer:** Option B is better as it guarantees the amount with bonus in 8 months!
+**Final answer:**
+- **Fastest:** Options A and C (6 months vs 8 months)
+- **Advantage of Option B:** You receive €11.33 extra, but it takes 2 more months
+- **Decision:** Depends on priority - speed (A/C) or extra return (B)
 
 ---
 
@@ -329,14 +344,22 @@ Avoid: B - low probability of use
 
 **c) Can you buy before €56?**
 ```
-Yes! With €10/month:
-Month 0: €0
-Month 1: €10 | Price: €51
-Month 2: €20 | Price: €52.02
-Month 3: €30 | Price: €53.06
-Month 4: €40 | Price: €54.12
-Month 5: €50 | Price: €55.20 → You can buy!
+NO! Month-by-month analysis with €10/month:
+
+Month 0: €0 | Price: €50.00
+Month 1: €10 | Price: €51.00 (need €41.00 more)
+Month 2: €20 | Price: €52.02 (need €32.02 more)
+Month 3: €30 | Price: €53.06 (need €23.06 more)
+Month 4: €40 | Price: €54.12 (need €14.12 more)
+Month 5: €50 | Price: €55.20 (need €5.20 more) ← Still not enough!
+Month 6: €60 | Price: €56.31 → Now you have enough, but it already exceeds €56!
+
+Answer: NO, you cannot. When you finally have enough money (month 6 with €60),
+the price has risen to €56.31, exceeding the €56 limit.
 ```
+
+**Important lesson:** Inflation can prevent you from buying something if you save too slowly.
+In this case, the price rises faster (2%/month) than you can save!
 
 **d) Savings buying today:**
 ```
